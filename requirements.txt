@@ -1,0 +1,7 @@
+fastapi
+faiss-cpu
+uvicorn
+python-multipart
+openai
+llama-index
+llama-index-vector-stores-faiss
